@@ -7,7 +7,7 @@ I do very random projects, just trying to get the basics down
 I use my flipper zero a lot, it's a lot of fun to learn and use with.
 I also own a M5Stickc Plus, simply for fun.
 
-##My Work 🖥️
+## My Work 🖥️
 Currently, my only documented and published work is the brainrot generator, however, I'd like to make a habit of publishing my projects on here.
 
 ## My Stats 📊
