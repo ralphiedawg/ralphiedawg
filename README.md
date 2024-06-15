@@ -1,6 +1,6 @@
-##About
+## About
 Wannabe cybersecurity analyst.
-#Programming
+# Programming
 Comfortable in python with light experience in rust. 
 
 
