@@ -1,4 +1,4 @@
 # Bio 
-Programming nerd, aspiring redteamer.
+Programming Nerd, Aspiring Redteamer.
 
 arch + neovim btw
